@@ -51,11 +51,13 @@ SentimentAI/
 ```bash
 git clone https://github.com/tuusuario/SentimentAI.git
 cd SentimentAI
+```
 
 2. Instala las dependencias necesarias (preferentemente en un entorno virtual):
 
 ```bash
 pip install -r requirements.txt
+```
 
 3. Agrega tus claves de Azure Text Analytics en el script sentiment_analysis.py.
 
