@@ -1,0 +1,6 @@
+comentario,sentimiento,confianza
+"""Me gusta el ambiente laboral""",positive,"{'positivo': 0.91, 'neutral': 0.09, 'negativo': 0.0}"
+"""El jefe nunca escucha nuestras ideas""",negative,"{'positivo': 0.02, 'neutral': 0.3, 'negativo': 0.68}"
+"""Todo está bien, sin novedades""",positive,"{'positivo': 0.56, 'neutral': 0.25, 'negativo': 0.19}"
+"""Estoy muy motivado con los nuevos retos""",positive,"{'positivo': 0.92, 'neutral': 0.07, 'negativo': 0.01}"
+"""No me pagan a tiempo, estoy frustrado""",negative,"{'positivo': 0.0, 'neutral': 0.01, 'negativo': 0.99}"
