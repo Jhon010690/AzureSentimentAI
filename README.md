@@ -41,14 +41,17 @@ data:
 
 -requirements.txt # Dependencias del proyecto.
 
+-Screenshots.
 
 dashboard:
 
--dashboard.png # Imagen del dashboard de Power BI
+-Analisis de sentimientos.pdf # Imagen del dashboard de Power BI
+
+-Analisis de sentimientos.pbix # Archivo Principal de Power BI
 
 -azure_config.md # Instrucciones para configuración en Azure
 
--Informe_Profesional_SentimentAI.docx # Informe formal del proyecto
+-Informe Profesional SentimentAI 2025.pdf # Informe formal del proyecto
 
 -README.md # Documentación del proyecto
 
