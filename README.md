@@ -32,15 +32,15 @@ SentimentAI es una solución de inteligencia artificial diseñada para analizar 
 ## 📁 Estructura del Proyecto
 
 SentimentAI/
-├── data/
-│ └── comentarios.csv # Archivo de entrada con comentarios simulados
-├── sentiment_analysis.py # Script principal de análisis
-├── requirements.txt # Dependencias del proyecto
-├── dashboard/
-│ └── dashboard.png # Imagen del dashboard de Power BI
-├── azure_config.md # Instrucciones para configuración en Azure
-├── Informe_Profesional_SentimentAI.docx # Informe formal del proyecto
-└── README.md # Documentación del proyecto
+data/
+-comentarios.csv # Archivo de entrada con comentarios simulados
+sentiment_analysis.py # Script principal de análisis
+requirements.txt # Dependencias del proyecto
+dashboard/
+-dashboard.png # Imagen del dashboard de Power BI
+azure_config.md # Instrucciones para configuración en Azure
+Informe_Profesional_SentimentAI.docx # Informe formal del proyecto
+README.md # Documentación del proyecto
 
 ---
 
