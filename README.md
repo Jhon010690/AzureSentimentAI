@@ -70,19 +70,21 @@ Aplica filtros por tipo de comentario, fecha o departamento si tu dataset lo inc
 
 🧪 Ejemplo de Comentarios de Entrada
 
+```bash
 comentario
 El servicio al cliente fue excelente.
 La espera fue demasiado larga.
 Todo estuvo normal, sin sorpresas.
+```
 
 📎 Créditos
 Proyecto desarrollado por Ing. Jhon Alexis Gutierrez Guzman, como iniciativa para demostrar competencias en:
 
-IA aplicada a negocio
-Análisis emocional automatizado
-Procesamiento de lenguaje natural (NLP)
-Visualización de datos
-Soluciones empresariales sobre la nube (Azure)
+- IA aplicada a negocio
+- Análisis emocional automatizado
+- Procesamiento de lenguaje natural (NLP)
+- Visualización de datos
+- Soluciones empresariales sobre la nube (Azure)
 
 ✅ Licencia
 Este proyecto es de uso libre para fines educativos o de demostración. Para uso comercial, por favor contactar al autor.
